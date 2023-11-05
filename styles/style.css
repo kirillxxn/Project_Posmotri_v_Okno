@@ -201,6 +201,7 @@ fieldset{
   cursor: pointer;
 }
 .more-button{
+  cursor: pointer;
   border: 1px solid white;
   width: 100%;
 }
