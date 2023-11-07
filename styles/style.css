@@ -67,12 +67,10 @@ ol {
   width: 712px;
   height: 386px;
   position: relative;
+  margin-bottom: 20px;
   
 }
-.result{
-  margin-bottom: 34px;
-  margin-left: 12px;
-}
+
 .result__video{
   width: 100%;
   height: 100%;
