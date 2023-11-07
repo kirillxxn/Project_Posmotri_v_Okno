@@ -18,7 +18,7 @@ html {
   background-color: #1b1919;
   position: relative;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
 }
 
 h1,
