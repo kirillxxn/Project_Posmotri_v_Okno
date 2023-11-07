@@ -47,7 +47,6 @@ ol {
   width: 100%;
   padding: 133px 30px;
   column-gap: 30px;
-  row-gap: 50px;
 }
 .search-form{
   display: flex;
@@ -67,7 +66,7 @@ ol {
   width: 712px;
   height: 386px;
   position: relative;
-  bottom: 16px;
+  bottom: 26px;
   
 }
 
