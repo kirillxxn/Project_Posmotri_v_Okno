@@ -46,7 +46,7 @@ ol {
   align-items: flex-end;
   width: 100%;
   padding: 133px 30px;
-  column-gap: 30px;
+  column-gap: 35px;
 }
 .search-form{
   display: flex;
