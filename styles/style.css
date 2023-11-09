@@ -48,7 +48,7 @@ ol {
   align-items: flex-end;
   width: 1140px;
   height: 534px;
-  gap: 29px;
+  gap: 28px;
 }
 
 .result__video-container {
@@ -87,7 +87,7 @@ fieldset {
   line-height: 22px;
   letter-spacing: 0em;
   text-align: left;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
 }
 
 .search-form__checkbox-list {
