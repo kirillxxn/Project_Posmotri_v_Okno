@@ -46,17 +46,16 @@ ol {
   display: flex;
   flex-direction: row;
   align-items: flex-end;
-  width: 100%;
-  gap: 30px;
-  left: 29px;
-  top: 15px
+  width: 1140px;
+  height: 534px;
+  gap: 29px;
 }
 
 .result__video-container {
   width: 712px;
   height: 386px;
   position: relative;
-  bottom: 15px;
+  
 
 }
 
@@ -76,8 +75,9 @@ fieldset {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: flex-start;
-  margin-right: 2px;
+  align-items: center;
+  margin-top: 14px;
+  
 }
 
 .search-form__fieldset-title {
@@ -87,19 +87,22 @@ fieldset {
   line-height: 22px;
   letter-spacing: 0em;
   text-align: left;
+  margin-bottom: 5px;
 }
 
 .search-form__checkbox-list {
   display: flex;
   flex-direction: row;
+  margin-right: 5px;
 }
 
 .search-form__label {
   width: fit-content;
-  margin-right: 20px;
+  margin-right: 15px;
   display: flex;
   align-items: center;
-  margin-top: 6px;
+  gap: 5px;
+  
 
 }
 
@@ -127,7 +130,7 @@ fieldset {
   border-top: 1px solid #fff;
   border-bottom: 1px solid #fff;
   appearance: none;
-  min-height: 30px;
+  min-height: 27px;
 
 }
 
@@ -135,7 +138,8 @@ fieldset {
   width: 194px;
   min-height: 34px;
 }
-
+.search-form__label-text{
+}
 .search-form__pseudo-checkbox {
   content: '';
   display: block;
@@ -144,7 +148,7 @@ fieldset {
   border: 1px solid #fff;
   cursor: pointer;
   position: relative;
-
+  
 }
 
 .button {
@@ -164,8 +168,8 @@ fieldset {
 }
 
 .content__details {
-  height: 100%;
-  min-width: 414px;
+  height: 534px;
+  min-width: 399px;
 }
 
 .title {
@@ -177,7 +181,7 @@ fieldset {
   text-align: left;
   position: relative;
   text-transform: uppercase;
-  bottom: 25px;
+
 
 }
 
@@ -193,8 +197,7 @@ fieldset {
 }
 
 .content__list-item {
-  margin-top: 35px;
-  margin-right: 15px;
+  
 }
 
 .content__card-link {
@@ -266,9 +269,6 @@ li:last-child {
   margin-top: 0;
 }
 
-li:first-child {
-  margin-top: 0;
-}
 
 /* :active */
 .search-form__textfield:active {
