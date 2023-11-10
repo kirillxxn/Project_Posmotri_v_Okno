@@ -89,6 +89,7 @@ fieldset {
   display: flex;
   flex-direction: row;
   margin-right: 5px;
+  margin-bottom: 2px;
 }
 
 .search-form__label {
