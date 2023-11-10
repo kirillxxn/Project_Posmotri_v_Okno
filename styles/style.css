@@ -337,7 +337,6 @@ fieldset {
 .search-form__label:has(:focus-visible) {
   outline: 1px #fff solid;
   outline-offset: 2px;
-
 }
 
 
