@@ -82,10 +82,7 @@ fieldset {
   line-height: 22px;
   letter-spacing: 0em;
   text-align: left;
-  margin-bottom: 4px;
-}
-.search-form__fieldset{
-  padding-bottom: 4px;
+  margin-bottom: 7px;
 }
 .search-form__checkbox-list {
   display: flex;
