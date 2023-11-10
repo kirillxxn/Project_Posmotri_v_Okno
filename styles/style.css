@@ -88,7 +88,7 @@ fieldset {
 .search-form__checkbox-list {
   display: flex;
   flex-direction: row;
-  margin-right: 7px;
+  margin-right: 9px;
   margin-bottom: 2px;
 }
 
