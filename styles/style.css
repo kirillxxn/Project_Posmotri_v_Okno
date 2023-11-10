@@ -75,7 +75,7 @@ fieldset {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-end;
   margin-top: 14px;
   
 }
@@ -94,6 +94,7 @@ fieldset {
   display: flex;
   flex-direction: row;
   margin-right: 5px;
+  margin-bottom: 3px;
 }
 
 .search-form__label {
@@ -138,8 +139,6 @@ fieldset {
   width: 194px;
   min-height: 34px;
 }
-.search-form__label-text{
-}
 .search-form__pseudo-checkbox {
   content: '';
   display: block;
@@ -163,13 +162,16 @@ fieldset {
   line-height: 22px;
   letter-spacing: 0em;
   text-align: center;
-  margin-top: 22px;
   cursor: pointer;
 }
 
 .content__details {
-  height: 534px;
+  min-height: 533px;
   min-width: 399px;
+  display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
 }
 
 .title {
@@ -197,7 +199,7 @@ fieldset {
 }
 
 .content__list-item {
-  
+  margin-bottom: 36px;
 }
 
 .content__card-link {
@@ -262,13 +264,7 @@ fieldset {
 .more-button {
   border: 1px solid #fff;
   width: 100%;
-  margin-bottom: 5px;
 }
-
-li:last-child {
-  margin-top: 0;
-}
-
 
 /* :active */
 .search-form__textfield:active {
