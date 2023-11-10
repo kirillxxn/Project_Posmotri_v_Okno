@@ -72,7 +72,7 @@ fieldset {
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-end;
-  margin-top: 14px;
+  margin-top: 17px;
 }
 
 .search-form__fieldset-title {
@@ -88,8 +88,8 @@ fieldset {
 .search-form__checkbox-list {
   display: flex;
   flex-direction: row;
-  margin-right: 5px;
-  margin-bottom: 3px;
+  margin-right: 7px;
+  margin-bottom: 5px;
 }
 
 .search-form__label {
