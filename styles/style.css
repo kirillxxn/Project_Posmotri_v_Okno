@@ -73,7 +73,7 @@ fieldset {
   justify-content: space-between;
   align-items: flex-end;
   margin-top: 14px;
-  padding-bottom: 3px;
+  padding-bottom: 1px;
 }
 
 .search-form__fieldset-title {
