@@ -47,7 +47,7 @@ ol {
   flex-direction: row;
   align-items: flex-end;
   min-width: 1140px;
-  gap: 30px;
+  gap: 28px;
 }
 
 .result__video-container {
@@ -60,7 +60,7 @@ ol {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  
+
 }
 
 fieldset {
@@ -100,9 +100,10 @@ fieldset {
   gap: 5px;
 }
 
-.search-form__label:last-child{
+.search-form__label:last-child {
   margin: 0;
 }
+
 .visually-hidden {
   position: absolute;
   inline-size: 1px;
@@ -167,8 +168,8 @@ fieldset {
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-between;
-  gap: 26px;
-  
+  gap: 25px;
+
 }
 
 .title {
@@ -195,9 +196,11 @@ fieldset {
 .content__list-item {
   margin-bottom: 34px;
 }
-.content__list-item:last-child{
+
+.content__list-item:last-child {
   margin: 0;
 }
+
 .content__card-link {
   display: block;
   text-decoration: none;
