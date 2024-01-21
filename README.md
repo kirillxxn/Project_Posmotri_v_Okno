@@ -5,9 +5,9 @@
 _____
 :white_circle: ***Ссылка на опубликованный проект в GitHub-Pages :arrow_right: https://kirillxxn.github.io/Project_Posmotri_v_Okno/***
 _____
-[![](https://imageup.ru/img260/4624364/snimok-ekrana-111.png)](https://imageup.ru/img260/4624364/snimok-ekrana-111.png.html)
+[![](https://imageup.ru/img224/4707168/snimok-ekrana-111.jpg)](https://imageup.ru/img224/4707168/snimok-ekrana-111.jpg.html)
 _____
-[![](https://imageup.ru/img34/4624365/snimok-ekrana-112.png)](https://imageup.ru/img34/4624365/snimok-ekrana-112.png.html)
+[![](https://imageup.ru/img2/4707169/snimok-ekrana-112.jpg)](https://imageup.ru/img2/4707169/snimok-ekrana-112.jpg.html)
 _____
-[![](https://imageup.ru/img161/4624366/snimok-ekrana-113.png)](https://imageup.ru/img161/4624366/snimok-ekrana-113.png.html)
+[![](https://imageup.ru/img81/4707171/snimok-ekrana-113.jpg)](https://imageup.ru/img81/4707171/snimok-ekrana-113.jpg.html)
 _____
